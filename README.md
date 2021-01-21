@@ -7,9 +7,9 @@
 
 ### Install
 
-Run  `npm install yarn upgrade @valdio/react-native-scrollable-tabview@https://github.com/scriptshadow/react-native-scrollable-tabview.git --save`
+Run  `npm install @valdio/react-native-scrollable-tabview@https://github.com/scriptshadow/react-native-scrollable-tabview.git --save`
     
-OR  `yarn upgrade @valdio/react-native-scrollable-tabview@https://github.com/scriptshadow/react-native-scrollable-tabview.git`
+OR  `yarn add @valdio/react-native-scrollable-tabview@https://github.com/scriptshadow/react-native-scrollable-tabview.git`
 
 ### Import
 `import {
