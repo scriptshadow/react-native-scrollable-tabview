@@ -5,7 +5,8 @@
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint -c .eslintrc . --ignore-path .gitignore",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node ./scripts/stfu.js"
   },
   "repository": {
     "type": "git",
