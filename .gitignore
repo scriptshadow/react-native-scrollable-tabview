@@ -1,7 +1,8 @@
 .project
 .idea/
 .reploy
-
+demo_images/
+examples/
 # OSX
 #
 .DS_Store
@@ -36,8 +37,6 @@ local.properties
 # node.js
 #
 node_modules/
-demo_images/
-examples/
 npm-debug.log
 yarn-error.log
 
