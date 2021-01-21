@@ -7,9 +7,9 @@
 
 ### Install
 
-Run  `npm install @valdio/react-native-scrollable-tabview --save`
+Run  `npm install yarn upgrade react-native-material-ui@https://github.com/scriptshadow/react-native-material-ui.git#add-componentdidupdate --save`
     
-OR  `yarn add @valdio/react-native-scrollable-tabview`
+OR  `yarn upgrade react-native-material-ui@https://github.com/scriptshadow/react-native-material-ui.git#add-componentdidupdate`
 
 ### Import
 `import {
